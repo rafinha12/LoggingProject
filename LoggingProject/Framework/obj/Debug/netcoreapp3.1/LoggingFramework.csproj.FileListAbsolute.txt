@@ -1,0 +1,9 @@
+C:\Users\rafa_\source\repos\LoggingProject\Framework\bin\Debug\netcoreapp3.1\LoggingFramework.deps.json
+C:\Users\rafa_\source\repos\LoggingProject\Framework\bin\Debug\netcoreapp3.1\LoggingFramework.dll
+C:\Users\rafa_\source\repos\LoggingProject\Framework\bin\Debug\netcoreapp3.1\LoggingFramework.pdb
+C:\Users\rafa_\source\repos\LoggingProject\Framework\obj\Debug\netcoreapp3.1\LoggingFramework.AssemblyInfoInputs.cache
+C:\Users\rafa_\source\repos\LoggingProject\Framework\obj\Debug\netcoreapp3.1\LoggingFramework.AssemblyInfo.cs
+C:\Users\rafa_\source\repos\LoggingProject\Framework\obj\Debug\netcoreapp3.1\LoggingFramework.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\source\repos\LoggingProject\Framework\obj\Debug\netcoreapp3.1\LoggingFramework.dll
+C:\Users\rafa_\source\repos\LoggingProject\Framework\obj\Debug\netcoreapp3.1\LoggingFramework.pdb
+C:\Users\rafa_\source\repos\LoggingProject\Framework\obj\Debug\netcoreapp3.1\LoggingFramework.csprojAssemblyReference.cache

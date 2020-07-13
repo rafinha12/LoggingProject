@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LoggingProject/1.0.0": {
+        "dependencies": {
+          "LoggingFramework": "1.0.0"
+        },
+        "runtime": {
+          "LoggingProject.dll": {}
+        }
+      },
+      "LoggingFramework/1.0.0": {
+        "runtime": {
+          "LoggingFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoggingProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoggingFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

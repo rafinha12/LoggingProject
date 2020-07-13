@@ -1,0 +1,7 @@
+13/07/2020 12:25:16|| 195963235 Warning 0: Login error, n of attemps = 1
+13/07/2020 12:25:17|| 195963235 Warning 0: Login error, n of attemps = 2
+13/07/2020 12:25:22|| 195963235 Warning 0: Login error, n of attemps = 3
+13/07/2020 12:25:22|| 195963235 Error 0: Session expired due the max of retries have been reached
+13/07/2020 12:25:40|| 1949564714 Warning 0: Login error, n of attemps = 1
+13/07/2020 12:25:41|| 1949564714 Warning 0: Login error, n of attemps = 2
+13/07/2020 12:25:45|| 1949564714 INFO: The user Admin have been loged succesfully
